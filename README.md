@@ -16,19 +16,20 @@ TIL작성과 프로젝트정리를 통해서 성장하는 모습기록💻
 
 - ### 묵찌빠게임
 
-- ### 쥬스메이커
+- ### [쥬스메이커](https://github.com/jaemuYeo/iOS_Study/tree/main/JuiceMaker)
 
 - ### 계산기
+
 ---
 
 ## TIL / TWL
 
-- ### [week-1](https://github.com/jaemuYeo/TIL_TWL/tree/main/TIL/week_1)
+- ### [week-1](https://github.com/jaemuYeo/iOS_Study/tree/main/TIL/week_1)
 
-- ### [week-2](https://github.com/jaemuYeo/TIL_TWL/tree/main/TIL/week_2)
+- ### [week-2](https://github.com/jaemuYeo/iOS_Study/tree/main/TIL/week_2)
 
-- ### [week-3](https://github.com/jaemuYeo/Yagom_Camp_ios/tree/main/TIL/week_3)
+- ### [week-3](https://github.com/jaemuYeo/iOS_Study/tree/main/TIL/week_3)
 
-- ### [week-4](https://github.com/jaemuYeo/Yagom_Camp_ios/tree/main/TIL/week_4)
+- ### [week-4](https://github.com/jaemuYeo/iOS_Study/tree/main/TIL/week_4)
 
-- ### [week-5](https://github.com/jaemuYeo/Yagom_Camp_ios/tree/main/TIL/week_5)
+- ### [week-5](https://github.com/jaemuYeo/iOS_Study/tree/main/TIL/week_5)
