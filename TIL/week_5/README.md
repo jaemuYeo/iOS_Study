@@ -4,4 +4,4 @@
 | 03.23 | Protocol                                |
 | 03.24 | 계산기 수기 설계, 고급 연산자 간단 정리 |
 | 03.25 | Swift Data Structure ( Stack )          |
-|       |                                         |
+| 03.26 | Operator 우선순위                       |
