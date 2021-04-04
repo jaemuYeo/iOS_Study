@@ -6,5 +6,8 @@
 
 import Foundation
 
-print("Hello, World!")
-
+class NumberBaseballGame {
+    var randomNumber = Int.random(in: 1...9)
+    var gameCount = 9
+    
+}
