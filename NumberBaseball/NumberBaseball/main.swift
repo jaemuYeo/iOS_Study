@@ -7,7 +7,8 @@
 import Foundation
 
 class NumberBaseballGame {
-    var randomNumber = Int.random(in: 1...9)
+    var randomNumberArray = [Int]()
     var gameCount = 9
+    
     
 }
