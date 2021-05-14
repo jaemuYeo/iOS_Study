@@ -12,7 +12,7 @@ TIL작성과 프로젝트정리를 통해서 성장하는 모습기록💻
 
 ## 한번의 실패,,
 
-[두달 동안의 회고]()
+[두달 동안의 회고](https://github.com/jaemuYeo/iOS_Study/tree/main/TIL/%EC%83%88%EB%A1%9C%EC%9A%B4%20%EC%8B%9C%EC%9E%91)
 
 ---
 
@@ -21,3 +21,5 @@ TIL작성과 프로젝트정리를 통해서 성장하는 모습기록💻
 ---
 
 ## TIL / TWL
+
+[Warming_Up]()
