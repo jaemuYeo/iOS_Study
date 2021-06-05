@@ -23,3 +23,7 @@ TIL작성과 프로젝트정리를 통해서 성장하는 모습기록💻
 ## TIL / TWL
 
 [Warming_Up](https://github.com/jaemuYeo/iOS_Study/tree/main/TIL/warming_up)
+
+[1주차](https://github.com/jaemuYeo/iOS_Study/tree/main/TIL/1_week)
+
+[2주차](https://github.com/jaemuYeo/iOS_Study/tree/main/TIL/2_week)
