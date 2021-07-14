@@ -5,4 +5,4 @@
 | 06.30 | StackView, ScrollVIew                                        |
 | 07.01 | Project 문제 해결 , 학습활동(DelegatePattern)                |
 | 07.02 |                                                              |
-| 07.03 | 운영체제 스터이 5회차                                        |
+| 07.03 | 운영체제 스터디 5회차                                        |
