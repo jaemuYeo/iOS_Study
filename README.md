@@ -22,7 +22,7 @@ TIL작성과 프로젝트정리를 통해서 성장하는 모습기록💻
 
 ## 📖 [객체지향의 사실과 오해](https://github.com/jaemuYeo/iOS_Study/tree/main/TIL/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98_%EC%82%AC%EC%8B%A4%EA%B3%BC_%EC%98%A4%ED%95%B4)
 
-## TIL / TWL
+## TIL
 
 [1주차](https://github.com/jaemuYeo/iOS_Study/tree/main/TIL/1_week) &nbsp;&nbsp;&nbsp;[2주차](https://github.com/jaemuYeo/iOS_Study/tree/main/TIL/2_week)&nbsp;&nbsp;&nbsp;
 [3주차](https://github.com/jaemuYeo/iOS_Study/tree/main/TIL/3_week)&nbsp;&nbsp;&nbsp;
@@ -33,3 +33,14 @@ TIL작성과 프로젝트정리를 통해서 성장하는 모습기록💻
 [7주차](https://github.com/jaemuYeo/iOS_Study/tree/main/TIL/7_week)&nbsp;&nbsp;&nbsp;
 [8주차](https://github.com/jaemuYeo/iOS_Study/tree/main/TIL/8_week)&nbsp;&nbsp;&nbsp;
 [9주차]()&nbsp;&nbsp;&nbsp;
+
+## 운영체제 스터디
+
+[1회차](https://github.com/jaemuYeo/iOS_Study/blob/main/TIL/2_week/2021-06-05.md)&nbsp;&nbsp;&nbsp;
+[2회차](https://github.com/jaemuYeo/iOS_Study/blob/main/TIL/3_week/2021-06-12.md)&nbsp;&nbsp;&nbsp;
+[3회차](https://github.com/jaemuYeo/iOS_Study/blob/main/TIL/4_week/2021-06-19.md)&nbsp;&nbsp;&nbsp;
+[4회차](https://github.com/jaemuYeo/iOS_Study/blob/main/TIL/5_week/2021-06-26.md)&nbsp;&nbsp;&nbsp;
+[5회차](https://github.com/jaemuYeo/iOS_Study/blob/main/TIL/6_week/2021-07-03.md)&nbsp;&nbsp;&nbsp;
+
+[6회차](https://github.com/jaemuYeo/iOS_Study/blob/main/TIL/7_week/2021-07-10.md)&nbsp;&nbsp;&nbsp;
+[7회차](https://github.com/jaemuYeo/iOS_Study/blob/main/TIL/8_week/2021-07-17.md)&nbsp;&nbsp;&nbsp;
