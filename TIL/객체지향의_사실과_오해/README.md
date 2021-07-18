@@ -10,4 +10,4 @@
 
 ## [6장 정리](https://github.com/jaemuYeo/iOS_Study/blob/main/TIL/2_week/2021-06-06.md)
 
-## [7장 정리]()
+## [7장 정리](https://github.com/jaemuYeo/iOS_Study/blob/main/TIL/8_week/2021-07-18.md)
