@@ -20,10 +20,38 @@ TIL작성과 프로젝트정리를 통해서 성장하는 모습기록💻
 
 ---
 
-## TIL / TWL
+## 객체지향의 사실과 오해
 
-[Warming_Up](https://github.com/jaemuYeo/iOS_Study/tree/main/TIL/warming_up)
+- [1장 정리](https://github.com/jaemuYeo/iOS_Study/blob/main/TIL/1_week/2021-05-30.md)
+
+- [2장 정리](https://github.com/jaemuYeo/iOS_Study/blob/main/TIL/2_week/2021-05-31.md)
+
+- [3장 정리](https://github.com/jaemuYeo/iOS_Study/blob/main/TIL/2_week/2021-06-01.md)
+
+- [4장 정리](https://github.com/jaemuYeo/iOS_Study/blob/main/TIL/2_week/2021-06-03.md)
+
+- [5장 정리](https://github.com/jaemuYeo/iOS_Study/blob/main/TIL/2_week/2021-06-04.md)
+
+- [6장 정리](https://github.com/jaemuYeo/iOS_Study/blob/main/TIL/2_week/2021-06-06.md)
+
+- [7장 정리]()
+
+## TIL / TWL
 
 [1주차](https://github.com/jaemuYeo/iOS_Study/tree/main/TIL/1_week)
 
 [2주차](https://github.com/jaemuYeo/iOS_Study/tree/main/TIL/2_week)
+
+[3주차](https://github.com/jaemuYeo/iOS_Study/tree/main/TIL/3_week)
+
+[4주차](https://github.com/jaemuYeo/iOS_Study/tree/main/TIL/4_week)
+
+[5주차](https://github.com/jaemuYeo/iOS_Study/tree/main/TIL/5_week)
+
+[6주차](https://github.com/jaemuYeo/iOS_Study/tree/main/TIL/6_week)
+
+[7주차](https://github.com/jaemuYeo/iOS_Study/tree/main/TIL/7_week)
+
+[8주차](https://github.com/jaemuYeo/iOS_Study/tree/main/TIL/8_week)
+
+[9주차]()
