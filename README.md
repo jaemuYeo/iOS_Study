@@ -20,21 +20,9 @@ TIL작성과 프로젝트정리를 통해서 성장하는 모습기록💻
 
 ---
 
-## 객체지향의 사실과 오해
+## 📖 [객체지향의 사실과 오해](https://github.com/jaemuYeo/iOS_Study/tree/main/TIL/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98_%EC%82%AC%EC%8B%A4%EA%B3%BC_%EC%98%A4%ED%95%B4)
 
-- [1장 정리](https://github.com/jaemuYeo/iOS_Study/blob/main/TIL/1_week/2021-05-30.md)
-
-- [2장 정리](https://github.com/jaemuYeo/iOS_Study/blob/main/TIL/2_week/2021-05-31.md)
-
-- [3장 정리](https://github.com/jaemuYeo/iOS_Study/blob/main/TIL/2_week/2021-06-01.md)
-
-- [4장 정리](https://github.com/jaemuYeo/iOS_Study/blob/main/TIL/2_week/2021-06-03.md)
-
-- [5장 정리](https://github.com/jaemuYeo/iOS_Study/blob/main/TIL/2_week/2021-06-04.md)
-
-- [6장 정리](https://github.com/jaemuYeo/iOS_Study/blob/main/TIL/2_week/2021-06-06.md)
-
-- [7장 정리]()
+---
 
 ## TIL / TWL
 
