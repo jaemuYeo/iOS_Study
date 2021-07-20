@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TIL & 회고 👨‍💻
 
 🐻 야곰 Camp Start 2021.05.24 ~~
@@ -47,12 +46,3 @@ TIL작성과 프로젝트정리를 통해서 성장하는 모습기록💻
 
 [6회차](https://github.com/jaemuYeo/iOS_Study/blob/main/TIL/7_week/2021-07-10.md)&nbsp;&nbsp;&nbsp;
 [7회차](https://github.com/jaemuYeo/iOS_Study/blob/main/TIL/8_week/2021-07-17.md)&nbsp;&nbsp;&nbsp;
-=======
-# 만국박람회 프로젝트 - 잼킹, 수박, 조이 @타일러
-
-## Step1
-
-### UML
-![Exposition](https://user-images.githubusercontent.com/52592748/124546959-5f30db80-de66-11eb-9411-e612f03363ed.png)
-
->>>>>>> exposition/step1
